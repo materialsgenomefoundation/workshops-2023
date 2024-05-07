@@ -18,6 +18,7 @@
 
 <!-- authored data -->
 
+[PDF version](workshops-2023.pdf)
 
 ---
 
